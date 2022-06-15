@@ -23,12 +23,16 @@ setuptools.setup(
         'odoo13-addon-crm_phonecall_summary_predefined',
         'odoo13-addon-crm_project',
         'odoo13-addon-crm_sale_secondary_salesperson',
+        'odoo13-addon-crm_salesperson_planner',
         'odoo13-addon-crm_secondary_salesperson',
+        'odoo13-addon-crm_security_group',
         'odoo13-addon-crm_stage_probability',
         'odoo13-addon-crm_stage_type',
+        'odoo13-addon-marketing_crm_partner',
     ],
     classifiers=[
         'Programming Language :: Python',
         'Framework :: Odoo',
+        'Framework :: Odoo :: 13.0',
     ]
 )
